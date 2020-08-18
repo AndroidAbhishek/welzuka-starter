@@ -1,0 +1,2 @@
+rootProject.name = 'welzuka-starter'
+include 'welzuka-base-starter','welzuka-data-starter','welzuka-test-starter'
